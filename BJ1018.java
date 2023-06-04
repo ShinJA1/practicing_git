@@ -10,6 +10,7 @@ public class BJ1018 {
 	public static int n, m;
 	public static int a, b; //jj fixed something
 	
+	//this is shin _ from ShinJA1
 	public static void firstB(int x, int y) {
 		cnt=0;
 		a = x % 2;
