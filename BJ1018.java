@@ -8,7 +8,7 @@ public class BJ1018 {
 	public static char[][] newBoard;
 	public static int cnt=0, res=0;
 	public static int n, m;
-	public static int a, b; //jj fixed something
+	public static int a, b; //jj fixed something ~~another change
 	
 	//this is shin _ from ShinJA1  ~~another change too
 	public static void firstB(int x, int y) {
